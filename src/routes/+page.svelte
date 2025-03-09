@@ -1,6 +1,4 @@
 <div class="bg-background">
 	<h1>Stylehero</h1>
-	<p>
-		Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation
-	</p>
+	<p>Challenges built to test your CSS, Tailwind, and design skills.</p>
 </div>
